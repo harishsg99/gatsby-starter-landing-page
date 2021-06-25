@@ -7,8 +7,8 @@ import { COLORS } from "../styles/constants"
 const Content = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
-      title="Minimal Features"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      title="Earn cryptocurrency from your audience"
+      description="Earn cryptocurrency from your content and influence while working with brands for paid engagements and content collaborations.Influencers and Content Creators can monetise their audience through live discussions"
     />
     <content
       style={{
@@ -19,10 +19,9 @@ const Content = () => (
       }}
     >
       <div>
-        <h3>What you need to Start</h3>
+        <h3>Start a live Podcast</h3>
         <p style={{ color: COLORS.gray }}>
-          Includes plugins for analytics, building sitemaps, and optimizing
-          images
+        Live Anonmyous Podcasts are here! Start your Anonmyous Podcast on Anonbee App and grow your audience through interactive discussions.
         </p>
       </div>
       <div>
